@@ -1,22 +1,10 @@
 {
   "items": [
     {
-      "id": 1,
-      "name": "Yogurt",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 2,
-      "name": "Pomegranate",
-      "category": "Produce",
-      "isInCart": false
-    },
-    {
       "id": 3,
       "name": "Lettuce",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "id": 4,
@@ -35,6 +23,72 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Swiss tea",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Swiss tea",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "Swiss tea",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "Swiss tea",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 10
+    },
+    {
+      "name": "Swiss tea",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 11
+    },
+    {
+      "name": "Swiss tea",
+      "category": "Dessert",
+      "isInCart": true,
+      "id": 12
+    },
+    {
+      "name": "Swiss tea",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 13
+    },
+    {
+      "name": "Swiss tea",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 14
+    },
+    {
+      "name": "Swiss tea",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 15
+    },
+    {
+      "name": "Swiss tea",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 16
+    },
+    {
+      "name": "Bread",
+      "category": "Dessert",
+      "isInCart": true,
+      "id": 17
     }
   ]
 }
